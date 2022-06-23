@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Logutov\source\repos\Task_08_A\Task_08_A\Source.cpp(22,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Task_08_A.vcxproj -> C:\Users\Logutov\source\repos\Task_08_A\x64\Debug\Task_08_A.exe
